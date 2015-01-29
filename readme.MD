@@ -1,5 +1,5 @@
 
-This script is a useful utiliy when a site protected by CloudFlare is under attack.
+This script is a useful utility when a site protected by CloudFlare is under attack.
 
 The script can read logfiles in Apache format and block IPs on Cloudflare based on a
 configurable amout of occurences.
